@@ -22,47 +22,47 @@ const aboutMe = {
 }
 ```
 
-## 📊 Estadísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-sc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-sc&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-## 👩‍💻 Lenguajes de Programación
+## 👩‍💻 Programming Languages
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="https://html.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://css.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://www.java.com/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 
 <br>
 
-## 🧰 Frameworks y Librerías
+## 🧰 Frameworks and Libraries
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="25" src="https://github.com/prplx/svg-logos/blob/master/svg/remix.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://github.com/prplx/svg-logos/blob/master/svg/nextjs.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://redux.js.org/" target="_blank"><img height="30" src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg"></a></code>
+<code><a href="https://remix.run/" target="_blank"><img height="25" src="https://github.com/prplx/svg-logos/blob/master/svg/remix.svg"></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://github.com/prplx/svg-logos/blob/master/svg/nextjs.svg"></a></code>
+<code><a href="https://nodejs.org/en" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://expressjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
+<code><a href="https://dotnet.microsoft.com/es-es/learn/dotnet/what-is-dotnet" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
 <br>
 
-## 💻 Software y herramientas
+## 💻 Software and tools
 
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
 
 <br>
 
 ## 📚 I’m currently learning
 
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://graphql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
 
 <br>
 
-## 💼 Porfolio y CV
+## 💼 Portfolio and Resume
 
 <p>
 <a href="https://github.com/Roberto-sc"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
