@@ -18,7 +18,7 @@ const aboutMe = {
                         ina: "Azure Fundaments"
                       },
  currentOccupation: ["recent graduate, open for job opportunities"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am learning cloud technologies"
 }
 ```
 
