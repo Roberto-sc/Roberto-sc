@@ -1,6 +1,6 @@
 ### Hi, I am Roberto Solano Centeno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=2EABCA&center=verdadero&vCenter=verdadero&width=500&lines=On+my+way+to+becoming+a+great.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=2EABCA&center=verdadero&vCenter=verdadero&width=500&lines=On+my+way+to+becoming+a+great+developer.)](https://git.io/typing-svg)
 
 
 ```javascript
